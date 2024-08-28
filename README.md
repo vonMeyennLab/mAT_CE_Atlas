@@ -10,7 +10,7 @@ Epigenetic modifications can influence gene expression in adipocytes, potentiall
 #### 1. :file_folder: ```Rscripts```</p>
 &emsp;&emsp;:file_folder: ```Epigenetics ```</p>
 &emsp;&emsp;&emsp;&emsp;:file_folder: ```0_PreProcessing```&ensp;*Peak QC, annotation, filtering and quantification*</p>
-&emsp;&emsp;&emsp;&emsp;:file_folder: ```1_MOFA```&ensp;*Cut&Tag and ATACseq based multi-omics factor analysis*</p>
+&emsp;&emsp;&emsp;&emsp;:file_folder: ```1_MOFA```&ensp;*Cut&Tag based multi-omics factor analysis*</p>
 &emsp;&emsp;&emsp;&emsp;:file_folder: ```2_DifferentialAnalysis```&ensp;*Differential analysis of promoters, enhancers, alluvial plots, and GSEA*</p>
 
 #### 2. :file_folder: ```ChromHMM```</p>
