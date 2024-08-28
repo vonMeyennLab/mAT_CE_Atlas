@@ -11,13 +11,14 @@ Epigenetic modifications can influence gene expression in adipocytes, potentiall
 &emsp;&emsp;:file_folder: ```Epigenetics ```</p>
 &emsp;&emsp;&emsp;&emsp;:file_folder: ```0_PreProcessing```&ensp;*Peak QC, annotation, filtering and quantification*</p>
 &emsp;&emsp;&emsp;&emsp;:file_folder: ```1_MOFA```&ensp;*Cut&Tag based multi-omics factor analysis*</p>
-&emsp;&emsp;&emsp;&emsp;:file_folder: ```2_DifferentialAnalysis```&ensp;*Differential analysis of promoters, enhancers, alluvial plots, and GSEA*</p>
+&emsp;&emsp;&emsp;&emsp;:file_folder: ```2_DifferentialAnalysis```&ensp;*Differential analysis of promoters, enhancers, and GSEA*</p>
 
 #### 2. :file_folder: ```ChromHMM```</p>
 &emsp;&emsp;:file_folder: ```ChromHMM```&ensp;*Commands and outputs of ChroHMM analysis (enhancers)*</p>
 &emsp;&emsp;&emsp;&emsp;:file_folder: ```tracks```&ensp;*Enhancer bed files for adipocytes*</p>
 &emsp;&emsp;&emsp;&emsp;:file_folder: ```scripts```&ensp;*Commands for Cut&Tag based ChromHMM analysis*</p>
 
+#### 3. :file_folder: ```Enhancer_Tracks```</p>
 
 ## Associated Repositories 
 1. [NextFlow Pipeline for CUT&Tag](https://github.com/vonMeyennLab/nf_cutntag)
