@@ -19,6 +19,7 @@ Epigenetic modifications can influence gene expression in adipocytes, potentiall
 &emsp;&emsp;&emsp;&emsp;:file_folder: ```scripts```&ensp;*Commands for Cut&Tag based ChromHMM analysis*</p>
 
 #### 3. :file_folder: ```Enhancer_Tracks```</p>
+Contains bed files for enhancers from ChromHMM analysis for white (AdipoCre) and beige/brown (Ucp1ERCre) adipocytes. 
 
 ## Associated Repositories 
 1. [NextFlow Pipeline for CUT&Tag](https://github.com/vonMeyennLab/nf_cutntag)
